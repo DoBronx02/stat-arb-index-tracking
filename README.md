@@ -40,5 +40,13 @@ Historical daily prices are automatically downloaded using yfinance for:
 30 DJIA constituent stocks
 The DJIA index (^DJI) for the period 2015–2025.
 
+Results Summary
+
+Cointegration spreads are strongly stationary, confirming a long-run price equilibrium.
+TEV spreads display weak or no stationarity, capturing only short-run co-movement.
+TEV yields smoother short-run behaviour but exhibits persistent fat-tailed errors (high kurtosis).
+
+Author
+Anirban Sen — M.Sc. Data Science
 
 
